@@ -401,6 +401,7 @@ body {
 .icon-white { color: #ffffff; }
 .icon-linkedin { color: #0a66c2; }
 .icon-instagram { color: #e1306c; }
+.icon-globe { color: #06b6d4; }
 
 .cta-card {
     background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(59, 130, 246, 0.1));
